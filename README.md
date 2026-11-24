@@ -10,6 +10,9 @@ post
 get
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ad62ad8a-a31e-49df-a118-9b5c4342d32a" />
 
+get by ID
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5a0195d0-6b58-4a88-b33e-a06ca6db0a1d" />
+
 put
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d4c6dbc4-3d74-451e-b049-e27babf4373c" />
 
